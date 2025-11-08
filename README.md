@@ -1,16 +1,21 @@
-# React + Vite
+🧠 Digit Span Assessment Web App
+Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The Digit Span Assessment is a psychology-based cognitive test designed to evaluate short-term and working memory.
+This interactive web app presents digit sequences of increasing length and asks participants to recall them, either forwards or backwards.
 
-Currently, two official plugins are available:
+It’s part of a larger suite of mental health assessment tools including GMHAT, PHQ-9, and GAD-7, designed with calming visuals and accessible interaction for patients and clinicians alike.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🌐 Live Demo
 
-## React Compiler
+🔗 Visit the Deployed App: https://digit-span-memory-test.vercel.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🛠️ Features
+🎧 Automatic background music for focus and relaxation
+🌙 Dark & Light Mode toggle for visual comfort
+🔢 Dynamic digit progression (3, 4, 5… increasing difficulty)
+🧩 Multiple Digit Sets (A, B, C) randomly mixed for variety
 
-## Expanding the ESLint configuration
+💬 Calming UI/UX designed for mental health applications
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+⚙️ Responsive Design — works on all devices
